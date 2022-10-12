@@ -68,9 +68,8 @@ const App = () => {
 
     if (nextQuestion === TOTAL_QUESTIONS) {
       setGameOver(true)
-      else {
-        setNumber(nextQuestion)
-      }
+    } else {
+      setNumber(nextQuestion)
     }
   }
 
