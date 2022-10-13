@@ -47,7 +47,7 @@ export const Wrapper = styled.div`
   }
 
   h1 {
-    font-family: Roboto, 'Arial Narrow Bold', Impact, sans-serif;
+    font-family: 'Roboto Mono', 'Arial Narrow Bold', Impact, sans-serif;
     background-image: linear-gradient(180deg, #fff, #0ba749);
     background-size: 100%;
     background-clip: text;
