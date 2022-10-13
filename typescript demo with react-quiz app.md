@@ -25,3 +25,7 @@ npm i styled-components @types/styled-components
 
   - trivia api: https://opentdb.com/api_config.php
     - https://opentdb.com/api.php?amount=10&type=multiple
+
+# formating
+
+https://styled-components.com/docs/api
